@@ -4,7 +4,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[English](README_EN.md) | 中文
+[English](README.md) | 中文
 
 ## 简介
 
